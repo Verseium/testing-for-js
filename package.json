@@ -1,0 +1,21 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "To test js scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "keywords": [
+    "test",
+    "vitest"
+  ],
+  "author": "Varma",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.28.4"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
